@@ -79,7 +79,7 @@ Se você procura um profissional com os pés no chão, que entende a teoria por 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **SM1 - A corrida do Prompt** | A Corrida do Prompt é uma atividade prática de engenharia de prompts, onde o desafio é formular instruções precisas, ricas em contexto e detalhes para extrair o melhor desempenho de modelos de linguagem de grande porte (LLMs). | [Ver Projeto](./projeto-ia-churn/) |
-| **SM2 - Laboratório de Classificação Visual** | A Corrida do Prompt é uma atividade prática de engenharia de prompts, onde o desafio é formular instruções precisas, ricas em contexto e detalhes para extrair o melhor desempenho de modelos de linguagem de grande porte (LLMs). | [Ver Projeto](./projeto-ia-churn/) |
+| **SM2 - Laboratório de Classificação Visual** | Este é um modelo de visão computacional gerado pelo Google Teachable Machine e exportado no formato TensorFlow.js. Ele foi treinado para classificar imagens de calçados em duas categorias. | [Ver Projeto](./projeto-ia-churn/) |
 ---
  
 ### 🏗 Estrutura do Repositório
