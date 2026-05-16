@@ -1,0 +1,9 @@
+Link do projeto publicado : https://ai.studio/apps/a4ce9c64-9287-471b-92a8-a6668f6d02ae
+
+Questão A : Para o engenheiro júnior, o mercado ficou mais fácil para começar, mas mais difícil para se destacar. A dificuldade de entrada para "fazer algo funcionar" caiu e muito. No entanto o mercado exige que os profissionais entendam de arquitetura, segurança e ética algorítmica.
+
+O júnior que apenas "copia e cola" da IA será rapidamente substituído. O júnior que utiliza a IA para materializar visões lógicas complexa se destacará.
+
+Questão B : O direito autoral deve sempre ser respeitado e levado a risca tendo em mente o mercado de hoje, o limite moral deve se ter ao usar a tecnologia para aprender e prototipar, mas trazendo algo novo para a empresa.
+
+Infelizmente não consegui atrelar ao github devido a um assalto que tive, comentei com o professor sobre. Por estar no serviço não tenho tempo de postar lá, mas as próximas atividades já estarão lá !
