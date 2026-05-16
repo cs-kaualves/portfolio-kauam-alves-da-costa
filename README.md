@@ -13,6 +13,35 @@
  
 ### 👨‍💻 Sobre
 Atualmente cursando o 2º período de Analise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em CyberSegurança e Analise de Dados.
+💻 Atuação no Mercado de TI e Competências Técnicas
+O mercado atual de tecnologia exige muito mais do que apenas escrever código; exige a capacidade de estruturar sistemas que sobrevivam ao ambiente de produção. Minha atuação técnica é dividida em três pilares principais que pratico de forma integrada:
+
+1. Desenvolvimento Backend e Lógica de Programação
+Tenho foco no desenvolvimento backend, lidando diretamente com a lógica de negócios, construção de APIs robustas e estruturação de algoritmos eficientes. Minha base técnica envolve conceitos fundamentais de linguagens estruturadas e tipadas, o que me dá facilidade para entender o comportamento da aplicação em baixo nível, gerenciar memória de forma consciente e debugar problemas complexos que ferramentas de alto nível muitas vezes escondem. Prezo pela aplicação de padrões de projeto (Design Patterns) e escrita de código limpo.
+
+2. Modelagem, Normalização e Escrita em Bancos de Dados
+Um sistema é tão bom quanto a estrutura dos seus dados. Dedico atenção especial à fase de análise e modelagem de dados, garantindo que o esquema do banco de dados (seja relacional ou não-relacional) esteja configurado corretamente.
+
+Normalização: Aplico as regras de normalização para evitar redundâncias e garantir a integridade dos dados durante as operações de escrita.
+
+Performance: Sei avaliar os trade-offs do mercado, entendendo exatamente quando a denormalização é necessária para otimizar a leitura e a performance, sem comprometer a consistência do sistema.
+
+3. Integração com Serviços em Nuvem e Infraestrutura
+Entendo como o software se comporta após o deploy. Tenho experiência prática na integração e configuração de serviços de infraestrutura moderna e plataformas em nuvem (como os serviços de ecossistemas como o Firebase: Authentication, Firestore, Cloud Storage e Hosting). Sei transitar entre o protótipo rápido e a evolução para um produto escalável, configurando regras de segurança, persistência de dados em tempo real e entrega estática de forma eficiente.
+
+📈 Metodologia de Trabalho e Processos de Negócio
+Para que a engenharia funcione, ela precisa estar alinhada com o fluxo da empresa. Minha inserção no mercado também passa pelo entendimento de como os processos internos se traduzem em requisitos de software:
+
+Mapeamento de Processos: Tenho facilidade em olhar para uma regra de negócio complexa — como um fluxo financeiro, contábil ou operacional — e traduzi-la em diagramas de caso de uso, diagramas de classe ou arquitetura de software descritiva.
+
+Trabalho em Equipe e Agilidade: Atuo dentro de fluxos de trabalho organizados (como Scrum ou Kanban), utilizando o versionamento de código (Git) de forma rigorosa para garantir que o trabalho em equipe seja fluido, sem conflitos de código e com histórico de alterações limpo.
+
+Comunicação Direta: Não utilizo termos excessivamente técnicos para falar com quem não é da área. Consigo alinhar o andamento do desenvolvimento com gerentes de produto, diretores e stakeholders, focando no que a funcionalidade faz e no problema que ela resolve, e não apenas nas ferramentas utilizadas.
+
+🎯 O Que Eu Entrego
+O objetivo do meu trabalho é entregar estabilidade e previsibilidade para o projeto. Em vez de arquiteturas superengenheiradas que ninguém na equipe consegue dar manutenção, busco entregar o simples bem-feito: código testável, documentação clara, banco de dados bem estruturado e deploys seguros.
+
+Se você procura um profissional com os pés no chão, que entende a teoria por trás da computação e sabe aplicá-la na prática para construir sistemas que funcionam de verdade, meu perfil se encaixa no que a sua equipe precisa.
  
 * **Habilidades Técnicas:** Python, Java, SQL.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico e liderança.
