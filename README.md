@@ -83,10 +83,7 @@ Se você procura um profissional com os pés no chão, que entende a teoria por 
 | **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Experimento comparativo entre os principais modelos de linguagem do mercado, avaliando a capacidade de cada um de interpretar um prompt estruturado em XML e gerar uma página HTML5 Single Page com CSS3 interno.. | [Ver Projeto](./projeto-ia-churn/) |]
 | **SM4 - Engenharia Reversa** | EO VRCiA é uma aplicação interativa que coloca o usuário no papel de um algoritmo de decisão de veículos autônomos. Inspirado no conceito do Trolley Problem e no experimento MIT Moral Machine, o app apresenta 6 cenários éticos reais onde uma escolha precisa ser feita — e não há resposta certa. | [Ver Projeto](./projeto-ia-churn/) |
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva, utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura. | [Ver Projeto](./projeto-ia-churn/) |
-| **SM6 - Engenharia de Software e IA com Bubble.io** | OrcaFlow é uma aplicação web de gestão financeira corporativa que centraliza o controle de orçamentos, despesas, aprovações e relatórios em um único painel. O sistema conta com um módulo de AI Insights em tempo real para análise preditiva de gastos e suporte à tomada de decisão financeira.
-
-Desenvolvida inteiramente na plataforma Bubble, demonstra o poder do desenvolvimento no-code para construção de produtos SaaS complexos sem uma linha de código backend.. | [Ver Projeto](./projeto-ia-churn/) |
-| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Experimento comparativo entre os principais modelos de linguagem do mercado, avaliando a capacidade de cada um de interpretar um prompt estruturado em XML e gerar uma página HTML5 Single Page com CSS3 interno.. | [Ver Projeto](./projeto-ia-churn/) |
+| **SM6 - Engenharia de Software e IA com Bubble.io** | OrcaFlow é uma aplicação web de gestão financeira corporativa que centraliza o controle de orçamentos, despesas, aprovações e relatórios em um único painel. O sistema conta com um módulo de AI Insights em tempo real para análise preditiva de gastos e suporte à tomada de decisão financeira.| [Ver Projeto](./projeto-ia-churn/) |
 ---
  
 ### 🏗 Estrutura do Repositório
